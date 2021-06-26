@@ -7,7 +7,7 @@ class Chossen:
     pass
 
 
-int(input("Enter Your Chose\n"))
+int(input("Enter Your Choose\n"))
 
 if int: str = "1"
 

@@ -11,7 +11,7 @@ int(input("Enter Your Chose\n"))
 
 if int: str = "1"
 
-grade = float(input('Enter Your Grade: '))
+grade = float(input('Enter Your Grade Mark: '))
 if grade == 4:
     print("A+")
 elif 3.75 <= grade <= 3.99:
@@ -36,7 +36,7 @@ else:
 
 if int: str = "2"
 
-mark = int(input("Enter Marks:"))
+mark = int(input("Enter Number Mark:"))
 
 if 80 <= mark <= 100:
     print("A+")
